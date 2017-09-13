@@ -1,2 +1,2 @@
 # poster
-(/picture/8.272323.jpg)
+(picture/8.272323.jpg)
